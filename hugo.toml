@@ -1,0 +1,6 @@
+baseURL = 'https://grasgruenit.github.io/'
+   # Agroflor_Vogelnetz'
+languageCode = 'de-de'
+title = 'Vogelnetze von Agroflor'
+
+theme = 'ananke'
