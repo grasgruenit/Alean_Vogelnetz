@@ -4,5 +4,6 @@ echo .
 git add .
 git commit -m "Corinne"
 git push origin main
-echo.
+echo .
+echo "Abgeschlossen"
 pause
